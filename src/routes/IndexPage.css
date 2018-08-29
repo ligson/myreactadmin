@@ -1,0 +1,18 @@
+.header {
+  color: lightsalmon;
+  background: aliceblue;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.nav {
+  background: slategray;
+  border-radius: 10px 10px 0 0;
+  padding-left: 10px;
+  height: 50px;
+}
+
+.navTrigger:hover {
+  background: #e6f7ff;
+  cursor: pointer;
+}
