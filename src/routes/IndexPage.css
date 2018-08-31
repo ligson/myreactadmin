@@ -1,5 +1,4 @@
 .header {
-  color: lightsalmon;
   background: aliceblue;
   font-size: 14px;
   font-weight: bold;
@@ -15,4 +14,14 @@
 .navTrigger:hover {
   background: #e6f7ff;
   cursor: pointer;
+}
+
+.headerLogo {
+  width: 100px;
+  float: left;
+}
+
+.headerUser {
+  width: 300px;
+  float: right;
 }
